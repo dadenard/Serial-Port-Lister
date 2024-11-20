@@ -3,6 +3,7 @@ List serial ports in windows
 
 Lists Serial Ports in windows.
 
+
 I got tired of having to open device manager and looking to find what serial ports I had.
 
 
